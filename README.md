@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Working as a React.js developer </a>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning and practicing every day.
-- ✍️ &nbsp; Training and playing basket as hobbies.
+- ✍️ &nbsp; Gym and playing basket as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
