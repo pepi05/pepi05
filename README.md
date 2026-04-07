@@ -20,7 +20,10 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+  ![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat&logo=elementor)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -34,7 +37,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-* [My Website](https://portfolio-website-petar-gjuzelov.vercel.app/)
+* [My Website](https://petargjuzelov.vercel.app/)
 * [LinkedIn](https://www.linkedin.com/in/petar-gjuzelov-589720219/)
 
 <a href="https://github.com/pepi05?tab=overview&from=2022-12-01&to=2022-12-31">
